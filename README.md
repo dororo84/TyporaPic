@@ -1,0 +1,2 @@
+# TyporaPic
+Save Typora images
